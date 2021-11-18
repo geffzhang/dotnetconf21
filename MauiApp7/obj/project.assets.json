@@ -45064,11 +45064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leger DJIBA\\source\\repos\\MauiApp7\\MauiApp7\\DotNetConf21.MAUI2.csproj",
+      "projectUniqueName": "C:\\Dotnetconf21\\dotnetconf21\\MauiApp7\\DotNetConf21.MAUI2.csproj",
       "projectName": "DotNetConf21.MAUI2",
-      "projectPath": "C:\\Users\\Leger DJIBA\\source\\repos\\MauiApp7\\MauiApp7\\DotNetConf21.MAUI2.csproj",
+      "projectPath": "C:\\Dotnetconf21\\dotnetconf21\\MauiApp7\\DotNetConf21.MAUI2.csproj",
       "packagesPath": "C:\\Users\\Leger DJIBA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leger DJIBA\\source\\repos\\MauiApp7\\MauiApp7\\obj\\",
+      "outputPath": "C:\\Dotnetconf21\\dotnetconf21\\MauiApp7\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

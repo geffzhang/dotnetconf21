@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kZcCxjL9khZcjZvO06hHEB0QWkVRXa7ROg4ESuaf76psSPXlZ14bJjn5ZGJhOAQNJXWuti0M07B4J1vOFDC2TA==",
+  "dgSpecHash": "5vndY1HvwGLKaxg4DASeURIrMWATdCZOlnOC0fYzDni1IloJ97Evvqgd43pWbH2z/h7iMMV9/7r96MyYyTO0GA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leger DJIBA\\source\\repos\\MauiApp7\\MauiApp7\\DotNetConf21.MAUI2.csproj",
+  "projectFilePath": "C:\\Dotnetconf21\\dotnetconf21\\MauiApp7\\DotNetConf21.MAUI2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leger DJIBA\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.0\\microsoft.aspnetcore.authorization.6.0.0.nupkg.sha512",
     "C:\\Users\\Leger DJIBA\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.0\\microsoft.aspnetcore.components.6.0.0.nupkg.sha512",
