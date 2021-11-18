@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DotNetConf21.WinForm/1.0.0": {
+        "runtime": {
+          "DotNetConf21.WinForm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetConf21.WinForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

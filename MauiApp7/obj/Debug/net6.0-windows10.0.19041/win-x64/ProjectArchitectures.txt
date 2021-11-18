@@ -1,1 +1,1 @@
-C:\Users\Leger DJIBA\source\repos\MauiApp7\MauiApp7\DotNetConf21.MAUI2.csproj;neutral
+C:\Dotnetconf21\dotnetconf21\MauiApp7\DotNetConf21.MAUI2.csproj;neutral

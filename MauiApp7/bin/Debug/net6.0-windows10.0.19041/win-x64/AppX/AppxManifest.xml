@@ -22,7 +22,7 @@
     <Resource Language="EN-US" />
   </Resources>
   <Applications>
-    <Application Id="App" Executable="MauiApp7.exe" EntryPoint="Windows.FullTrustApplication">
+    <Application Id="App" Executable="DotNetConf21.MAUI2.exe" EntryPoint="Windows.FullTrustApplication">
       <uap:VisualElements DisplayName="MauiApp7" Description="MauiApp7" BackgroundColor="transparent" Square150x150Logo="Assets\appiconMediumTile.png" Square44x44Logo="Assets\appiconLogo.png">
         <uap:DefaultTile Wide310x150Logo="Assets\appiconWideTile.png" Square71x71Logo="Assets\appiconSmallTile.png" Square310x310Logo="Assets\appiconLargeTile.png" ShortName="MauiApp7">
           <uap:ShowNameOnTiles>

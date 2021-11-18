@@ -1,0 +1,17 @@
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\bin\Debug\net6.0-windows\DotNetConf21.WinForm.exe
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\bin\Debug\net6.0-windows\DotNetConf21.WinForm.deps.json
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\bin\Debug\net6.0-windows\DotNetConf21.WinForm.runtimeconfig.json
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\bin\Debug\net6.0-windows\DotNetConf21.WinForm.dll
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\bin\Debug\net6.0-windows\ref\DotNetConf21.WinForm.dll
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\bin\Debug\net6.0-windows\DotNetConf21.WinForm.pdb
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\obj\Debug\net6.0-windows\DotNetConf21.WinForm.csproj.AssemblyReference.cache
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\obj\Debug\net6.0-windows\DotNetConf21.WinForm.Form1.resources
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\obj\Debug\net6.0-windows\DotNetConf21.WinForm.csproj.GenerateResource.cache
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\obj\Debug\net6.0-windows\DotNetConf21.WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\obj\Debug\net6.0-windows\DotNetConf21.WinForm.AssemblyInfoInputs.cache
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\obj\Debug\net6.0-windows\DotNetConf21.WinForm.AssemblyInfo.cs
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\obj\Debug\net6.0-windows\DotNetConf21.WinForm.csproj.CoreCompileInputs.cache
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\obj\Debug\net6.0-windows\DotNetConf21.WinForm.dll
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\obj\Debug\net6.0-windows\ref\DotNetConf21.WinForm.dll
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\obj\Debug\net6.0-windows\DotNetConf21.WinForm.pdb
+C:\Dotnetconf21\dotnetconf21\DotNetConf21.WinForm\obj\Debug\net6.0-windows\DotNetConf21.WinForm.genruntimeconfig.cache
