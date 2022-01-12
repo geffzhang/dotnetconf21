@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.WinForm\\DotNetConf21.WinForm.csproj": {}
+    "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.WinForm\\DotNetConf21.WinForm.csproj": {}
   },
   "projects": {
-    "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.WinForm\\DotNetConf21.WinForm.csproj": {
+    "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.WinForm\\DotNetConf21.WinForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.WinForm\\DotNetConf21.WinForm.csproj",
+        "projectUniqueName": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.WinForm\\DotNetConf21.WinForm.csproj",
         "projectName": "DotNetConf21.WinForm",
-        "projectPath": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.WinForm\\DotNetConf21.WinForm.csproj",
-        "packagesPath": "C:\\Users\\Leger DJIBA\\.nuget\\packages\\",
-        "outputPath": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.WinForm\\obj\\",
+        "projectPath": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.WinForm\\DotNetConf21.WinForm.csproj",
+        "packagesPath": "D:\\nuget\\packages",
+        "outputPath": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.WinForm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Leger DJIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Users\\geffzhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0-windows7.0"
@@ -29,8 +28,10 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "http://nuget.telerik.com/nuget": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "http://nuget.weyhd.com/nuget/yhd-nuget/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mirrors.cloud.tencent.com/nuget/": {},
+          "https://s3-us-west-2.amazonaws.com/aws.portingassistant.dotnet.download/nuget/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
@@ -65,7 +66,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.21617.4\\RuntimeIdentifierGraph.json"
         }
       }
     }

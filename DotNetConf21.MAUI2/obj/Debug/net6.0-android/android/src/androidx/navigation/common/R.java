@@ -8,9 +8,9 @@ package androidx.navigation.common;
 
 public final class R {
 	public static final class attr {
-		public static final int action = 0x7f030003;
-		public static final int alpha = 0x7f03002e;
-		public static final int argType = 0x7f030037;
+		public static final int action = 0x7f030002;
+		public static final int alpha = 0x7f03002d;
+		public static final int argType = 0x7f030036;
 		public static final int destination = 0x7f03012a;
 		public static final int enterAnim = 0x7f030155;
 		public static final int exitAnim = 0x7f03015d;
@@ -173,7 +173,7 @@ public final class R {
 		public static final int Widget_Compat_NotificationActionText = 0x7f0f025b;
 	}
 	public static final class styleable {
-		public static final int[] ColorStateListItem = new int[] { 0x010101a5, 0x0101031f, 0x7f03002e };
+		public static final int[] ColorStateListItem = new int[] { 0x010101a5, 0x0101031f, 0x7f03002d };
 		public static final int ColorStateListItem_alpha = 2;
 		public static final int ColorStateListItem_android_alpha = 1;
 		public static final int ColorStateListItem_android_color = 0;
@@ -221,12 +221,12 @@ public final class R {
 		public static final int NavAction_popExitAnim = 6;
 		public static final int NavAction_popUpTo = 7;
 		public static final int NavAction_popUpToInclusive = 8;
-		public static final int[] NavArgument = new int[] { 0x01010003, 0x010101ed, 0x7f030037, 0x7f0302ab };
+		public static final int[] NavArgument = new int[] { 0x01010003, 0x010101ed, 0x7f030036, 0x7f0302ab };
 		public static final int NavArgument_android_defaultValue = 1;
 		public static final int NavArgument_android_name = 0;
 		public static final int NavArgument_argType = 2;
 		public static final int NavArgument_nullable = 3;
-		public static final int[] NavDeepLink = new int[] { 0x010104ee, 0x7f030003, 0x7f030277, 0x7f0303db };
+		public static final int[] NavDeepLink = new int[] { 0x010104ee, 0x7f030002, 0x7f030277, 0x7f0303db };
 		public static final int NavDeepLink_action = 1;
 		public static final int NavDeepLink_android_autoVerify = 0;
 		public static final int NavDeepLink_mimeType = 2;

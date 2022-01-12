@@ -8,7 +8,7 @@ package androidx.core;
 
 public final class R {
 	public static final class attr {
-		public static final int alpha = 0x7f03002e;
+		public static final int alpha = 0x7f03002d;
 		public static final int font = 0x7f03018c;
 		public static final int fontProviderAuthority = 0x7f03018e;
 		public static final int fontProviderCerts = 0x7f03018f;
@@ -171,7 +171,7 @@ public final class R {
 		public static final int[] Capability = new int[] { 0x7f0302e8, 0x7f030310 };
 		public static final int Capability_queryPatterns = 0;
 		public static final int Capability_shortcutMatchRequired = 1;
-		public static final int[] ColorStateListItem = new int[] { 0x010101a5, 0x0101031f, 0x7f03002e };
+		public static final int[] ColorStateListItem = new int[] { 0x010101a5, 0x0101031f, 0x7f03002d };
 		public static final int ColorStateListItem_alpha = 2;
 		public static final int ColorStateListItem_android_alpha = 1;
 		public static final int ColorStateListItem_android_color = 0;

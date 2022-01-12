@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S1qm4uW1oKEfEih6THTva0aLfCkwPrxYrgiCzf8DICE=",
+  "Hash": "vGCasQX4Q9P3owiji/TOQi/lTACSqTy6FumK2k03UCI=",
   "Source": "DotNetConf21.MAUI2",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "DotNetConf21.MAUI2\\wwwroot",
       "Source": "DotNetConf21.MAUI2",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\obj\\Debug\\net6.0-windows10.0.19041\\win-x64\\scopedcss\\bundle\\DotNetConf21.MAUI2.styles.css",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\obj\\Debug\\net6.0-windows10.0.19041\\win-x64\\scopedcss\\bundle\\DotNetConf21.MAUI2.styles.css",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\obj\\Debug\\net6.0-windows10.0.19041\\win-x64\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\obj\\Debug\\net6.0-windows10.0.19041\\win-x64\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "DotNetConf21.MAUI2.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\obj\\Debug\\net6.0-windows10.0.19041\\win-x64\\scopedcss\\bundle\\DotNetConf21.MAUI2.styles.css"
+      "OriginalItemSpec": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\obj\\Debug\\net6.0-windows10.0.19041\\win-x64\\scopedcss\\bundle\\DotNetConf21.MAUI2.styles.css"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\obj\\Debug\\net6.0-windows10.0.19041\\win-x64\\scopedcss\\projectbundle\\DotNetConf21.MAUI2.bundle.scp.css",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\obj\\Debug\\net6.0-windows10.0.19041\\win-x64\\scopedcss\\projectbundle\\DotNetConf21.MAUI2.bundle.scp.css",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\obj\\Debug\\net6.0-windows10.0.19041\\win-x64\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\obj\\Debug\\net6.0-windows10.0.19041\\win-x64\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "DotNetConf21.MAUI2.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\obj\\Debug\\net6.0-windows10.0.19041\\win-x64\\scopedcss\\projectbundle\\DotNetConf21.MAUI2.bundle.scp.css"
+      "OriginalItemSpec": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\obj\\Debug\\net6.0-windows10.0.19041\\win-x64\\scopedcss\\projectbundle\\DotNetConf21.MAUI2.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\app.css",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\app.css",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\favicon.ico",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\favicon.ico",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\index.html",
+      "Identity": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\index.html",
       "SourceId": "DotNetConf21.MAUI2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
+      "ContentRoot": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.MAUI2\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index.html",
       "AssetKind": "All",

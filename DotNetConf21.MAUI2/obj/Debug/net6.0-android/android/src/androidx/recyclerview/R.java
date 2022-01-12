@@ -8,7 +8,7 @@ package androidx.recyclerview;
 
 public final class R {
 	public static final class attr {
-		public static final int alpha = 0x7f03002e;
+		public static final int alpha = 0x7f03002d;
 		public static final int fastScrollEnabled = 0x7f030172;
 		public static final int fastScrollHorizontalThumbDrawable = 0x7f030173;
 		public static final int fastScrollHorizontalTrackDrawable = 0x7f030174;
@@ -178,7 +178,7 @@ public final class R {
 		public static final int Widget_Compat_NotificationActionText = 0x7f0f025b;
 	}
 	public static final class styleable {
-		public static final int[] ColorStateListItem = new int[] { 0x010101a5, 0x0101031f, 0x7f03002e };
+		public static final int[] ColorStateListItem = new int[] { 0x010101a5, 0x0101031f, 0x7f03002d };
 		public static final int ColorStateListItem_alpha = 2;
 		public static final int ColorStateListItem_android_alpha = 1;
 		public static final int ColorStateListItem_android_color = 0;

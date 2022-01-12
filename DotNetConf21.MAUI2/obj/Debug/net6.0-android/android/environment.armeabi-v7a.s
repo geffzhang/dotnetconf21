@@ -46,22 +46,28 @@ application_config:
 	.byte	0
 	/* have_runtime_config_blob */
 	.byte	1
+	/* have_assembly_store */
+	.byte	0
 	/* bound_exception_type */
 	.byte	0
 	/* package_naming_policy */
-	.zero	3
+	.zero	2
 	.long	3
 	/* environment_variable_count */
 	.long	12
 	/* system_property_count */
 	.long	0
 	/* number_of_assemblies_in_apk */
-	.long	293
+	.long	291
 	/* bundled_assembly_name_width */
 	.long	77
+	/* number_of_assembly_store_files */
+	.long	2
+	/* mono_components_mask */
+	.long	3
 	/* android_package_name */
 	.long	.L.env.str.1
-	.size	application_config, 36
+	.size	application_config, 44
 	.section	.rodata.env.str.2,"aMS",%progbits,1
 	.type	.L.env.str.2, %object
 .L.env.str.2:
@@ -109,7 +115,7 @@ mono_aot_mode_name:
 	.section	.rodata.env.str.10,"aMS",%progbits,1
 	.type	.L.env.str.10, %object
 .L.env.str.10:
-	.asciz	"c85fb130-183f-4164-aab0-7613ebec67dc"
+	.asciz	"cec16a1a-cee9-45ad-a7ca-3d9a94c07093"
 	.size	.L.env.str.10, 37
 	.section	.rodata.env.str.11,"aMS",%progbits,1
 	.type	.L.env.str.11, %object
@@ -155,6 +161,7 @@ app_environment_variables:
 	.global	app_system_properties
 app_system_properties:
 	.size	app_system_properties, 0
+
 	/* Bundled assembly name buffers, all 77 bytes long */
 	.section	.bss.bundled_assembly_names,"aw",%nobits
 .L.env.buf.1:
@@ -739,10 +746,7 @@ app_system_properties:
 	.zero	77
 .L.env.buf.291:
 	.zero	77
-.L.env.buf.292:
-	.zero	77
-.L.env.buf.293:
-	.zero	77
+
 	/* Bundled assemblies data */
 	.section	.data.bundled_assemblies,"aw",%progbits
 	.type	bundled_assemblies, %object
@@ -4532,30 +4536,19 @@ bundled_assemblies:
 	/* name */
 	.long	.L.env.buf.291
 
-	/* apk_fd */
-	.long	-1
-	/* data_offset */
-	.long	0
-	/* data_size */
-	.long	0
-	/* data */
-	.long	0
-	/* name_length */
-	.long	0
-	/* name */
-	.long	.L.env.buf.292
+	.size	bundled_assemblies, 6984
 
-	/* apk_fd */
-	.long	-1
-	/* data_offset */
-	.long	0
-	/* data_size */
-	.long	0
-	/* data */
-	.long	0
-	/* name_length */
-	.long	0
-	/* name */
-	.long	.L.env.buf.293
 
-	.size	bundled_assemblies, 7032
+	/* Assembly store individual assembly data */
+	.section	.data.assembly_store_bundled_assemblies,"aw",%progbits
+	.type	assembly_store_bundled_assemblies, %object
+	.p2align	2
+	.global	assembly_store_bundled_assemblies
+assembly_store_bundled_assemblies:
+
+	/* Assembly store data */
+	.section	.data.assembly_stores,"aw",%progbits
+	.type	assembly_stores, %object
+	.p2align	2
+	.global	assembly_stores
+assembly_stores:

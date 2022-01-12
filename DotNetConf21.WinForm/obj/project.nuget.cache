@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bUhHcjIQMpNSbJOTk6JTHItpaKw3vtHXPuRbfmtGFhju6+4VDG5VUZEhIiJhb1VLg8Q2Z5VpbvSkUblsJnjBog==",
+  "dgSpecHash": "jQELxUhIJM97DJ/5r8fqgPQqyXXZNLPpxK9odml1PzY2s3ybeINOIeyWnk17BVFRAmlER4fyzvvKFC+HMxMK+Q==",
   "success": true,
-  "projectFilePath": "C:\\Dotnetconf21\\dotnetconf21\\DotNetConf21.WinForm\\DotNetConf21.WinForm.csproj",
+  "projectFilePath": "D:\\workshop\\Github\\dotnetconf21\\DotNetConf21.WinForm\\DotNetConf21.WinForm.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
